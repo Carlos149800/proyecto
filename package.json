@@ -1,0 +1,8 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Aplicacion web sencilla para practicar integracion continua",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
